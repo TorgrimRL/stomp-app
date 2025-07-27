@@ -50,4 +50,3 @@ class GreetingController {
         return "Hello, " + HtmlUtils.htmlEscape(personName) + "!"
     }
 }
-o
